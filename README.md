@@ -5,26 +5,38 @@
 </p>
 
 <p align="center">
-  <a href="https://dev.to/ricardofrantz">
-    <img src="https://svgur.com/i/TKs.svg" width="24px"/>
+  <a href="https://scholar.google.com/citations?user=VzovS2oAAAAJ&hl=en">
+    <img src="https://img.icons8.com/color/48/000000/google-scholar.png"/>
+  </a>
+  &emsp;
+  <a href="https://www.youtube.com/channel/UC9quHxfzJkrFXQnI2DF2Jsw">
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png"/>
+  </a>
+  &emsp;
+  <a href= "https://www.researchgate.net/profile/Ricardo-Frantz">
+    <img src="https://img.icons8.com/color/48/000000/front-gate-open.png"/>
+  </a>
+  &emsp;
+  <a href="https://ricardofrantz.github.io/ricardofrantz">
+    <img src="https://img.icons8.com/color/48/000000/parse-from-clipboard.png"/> 
+  </a>
+  &emsp;
+  <a href="https://www.linkedin.com/in/rfrantz1/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
   </a>
   &emsp;
   <a href= "https://instagram.com/ricardofrantz">
-    <img src="https://img.icons8.com/ios-glyphs/256/808080/instagram-new.svg" width="28px"/>
+    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>
   </a>
   &emsp;
-  <a href="https://ricardofrantz">
-    <img src="https://img.icons8.com/material/256/808080/globe--v1.png" width="28px"/>
-  </a>
-  &emsp;
-  <a href="https://linkedin.com/in/ricardofrantz">
-    <img src="https://img.icons8.com/ios-filled/256/808080/linkedin.svg" width="26px"/>
+  <a href= "https://unsplash.com/@ricardofrantz">
+    <img src="https://img.icons8.com/color/48/000000/unsplash.png"/>
   </a>
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/puf17640/puf17640?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/ricardofrantz/git-badges?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/years/ricardofrantz?style=flat-square&color=black&logo=github">
