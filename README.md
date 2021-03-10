@@ -36,9 +36,6 @@
   <strong>Check out my work below!</strong>
   <br><br>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/ricardofrantz/git-badges?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/years/ricardofrantz?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
@@ -46,8 +43,5 @@
   </a>
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/gists/ricardofrantz?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/commits/monthly/ricardofrantz?style=flat-square&color=black&logo=github">
   </a>
 </p>
