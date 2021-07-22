@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://github.com/ricardofrantz" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=ricardofrantz&title_color=333&text_color=777" alt="Ricardo's Stats" >
-  </a>
-</p>
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=VzovS2oAAAAJ&hl=en">
