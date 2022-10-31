@@ -20,23 +20,7 @@
     <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
   </a>
   &emsp;
-  <a href= "https://instagram.com/ricardofrantz">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>
-  </a>
-  &emsp;
   <a href= "https://unsplash.com/@ricardofrantz">
     <img src="https://img.icons8.com/color/48/000000/unsplash.png"/>
-  </a>
-  <br><br>
-  <strong>Check out my work below!</strong>
-  <br><br>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/ricardofrantz?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/ricardofrantz?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/gists/ricardofrantz?style=flat-square&color=black&logo=github">
   </a>
 </p>
