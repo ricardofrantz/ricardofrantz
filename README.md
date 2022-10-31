@@ -12,14 +12,6 @@
     <img src="https://img.icons8.com/color/48/000000/front-gate-open.png"/>
   </a>
   &emsp;
-  <a href="https://ricardofrantz.github.io/ricardofrantz">
-    <img src="https://img.icons8.com/color/48/000000/parse-from-clipboard.png"/> 
-  </a>
-  &emsp;
-  <a href="https://www.linkedin.com/in/rfrantz1/">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-  </a>
-  &emsp;
   <a href= "https://unsplash.com/@ricardofrantz">
     <img src="https://img.icons8.com/color/48/000000/unsplash.png"/>
   </a>
