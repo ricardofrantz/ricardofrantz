@@ -1,18 +1,13 @@
-# Ricardo Frantz
-
 Computational engineer · Lausanne, Switzerland
 
 PhD in mechanics, 8+ years building high-performance numerical software at scale. Currently at EPFL building coupled flow-thermal solvers for conjugate heat transfer with PyTorch/JAX backends for gradient-based optimization.
 
-## Open-source tools
+## Projects
 
 - [nekStab](https://github.com/nekStab/nekStab) — Stability analysis toolbox for Nek5000. Linear/adjoint solvers, Newton-GMRES for unstable periodic orbits, Krylov-Schur eigensolvers, native POD/SPOD/DMD. Scaled to 10,000+ cores.
 - [LightKrylov](https://github.com/nekStab/LightKrylov) — Standalone Krylov methods library in Modern Fortran: Arnoldi, Lanczos, GMRES, SVD. Published in [JOSS](https://joss.theoj.org/papers/10.21105/joss.09623).
 - [Xcompact3d](https://github.com/xcompact3d/Incompact3d) — MPI-parallel Navier-Stokes solver for turbulence research.
 - [dNami](https://github.com/dNamiLab/dNami) — Compressible flow framework with Python→Fortran codegen for compute-critical kernels.
-
-## Projects
-
 - [dolfinx-rans](https://github.com/ricardofrantz/dolfinx-rans) — Standalone RANS k-omega turbulence solver in FEniCSx with conjugate heat transfer
 - [pyModal](https://github.com/ricardofrantz/pyModal) — Modal decomposition toolkit: POD, DMD, SPOD, ST-POD, and bispectral analysis. Multiple FFT backends (MKL, Accelerate, CuPy, PyTorch).
 - [nanobook](https://github.com/ricardofrantz/nanobook) — Rust trading engine. Order book matching at ~120 ns/order, portfolio optimization (min-variance, risk-parity, CVaR), IBKR/Binance adapters.
@@ -22,7 +17,7 @@ PhD in mechanics, 8+ years building high-performance numerical software at scale
 - [cml-visualizer](https://ricardofrantz.github.io/cml-visualizer/) — Interactive chaos theory explorer. Logistic, Hénon, Ikeda, Julia/Mandelbrot maps and coupled map lattices for spatiotemporal chaos.
 - [sacred-timeline](https://ricardofrantz.github.io/sacred_timeline/) — Chronological database of historical events from the Big Bang to present, wrapped in a TVA terminal aesthetic.
 
-## Selected publications
+## Publications
 
 - [LightKrylov: Lightweight Krylov subspace techniques in modern Fortran](https://joss.theoj.org/papers/10.21105/joss.09623.pdf), *JOSS*, 2026
 - [Bifurcation sequence in the wakes of a sphere and a cube](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/bifurcation-sequence-in-the-wakes-of-a-sphere-and-a-cube/FD3454216F8CDCD9F6CCDA3ECCB78EBA), *J. Fluid Mech.*, 2025
