@@ -2,7 +2,7 @@ Computational engineer · Lausanne, Switzerland
 
 PhD in mechanics, 8+ years building high-performance numerical software at scale. Currently at EPFL building coupled flow-thermal solvers for conjugate heat transfer with PyTorch/JAX backends for gradient-based optimization.
 
-## Projects
+## Open-source Projects
 
 - [nekStab](https://github.com/nekStab/nekStab) — Stability analysis toolbox for Nek5000. Linear/adjoint solvers, Newton-GMRES for unstable periodic orbits, Krylov-Schur eigensolvers, native POD/SPOD/DMD. Scaled to 10,000+ cores.
 - [LightKrylov](https://github.com/nekStab/LightKrylov) — Standalone Krylov methods library in Modern Fortran: Arnoldi, Lanczos, GMRES, SVD. Published in [JOSS](https://joss.theoj.org/papers/10.21105/joss.09623).
