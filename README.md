@@ -1,4 +1,4 @@
-Computational engineer · Lausanne, Switzerland
+Computational Engineer · Lausanne, Switzerland
 
 PhD in mechanics, 8+ years building high-performance numerical software at scale. Currently at EPFL building coupled flow-thermal solvers for conjugate heat transfer with PyTorch/JAX backends for gradient-based optimization.
 
@@ -11,11 +11,11 @@ PhD in mechanics, 8+ years building high-performance numerical software at scale
 - [dolfinx-rans](https://github.com/ricardofrantz/dolfinx-rans) — Standalone RANS k-omega turbulence solver in FEniCSx with conjugate heat transfer
 - [pyModal](https://github.com/ricardofrantz/pyModal) — Modal decomposition toolkit: POD, DMD, SPOD, ST-POD, and bispectral analysis. Multiple FFT backends (MKL, Accelerate, CuPy, PyTorch).
 - [nanobook](https://github.com/ricardofrantz/nanobook) — Rust trading engine. Order book matching at ~120 ns/order, portfolio optimization (min-variance, risk-parity, CVaR), IBKR/Binance adapters.
-- [nanochat-rs-next](https://github.com/ricardofrantz/nanochat-rs-next) — Rust terminal-first agentic chat toolkit for local-first LLM workflows.
+- [nanochat-rs-next](https://github.com/ricardofrantz/nanochat-rs-next) — Rust CLI for training and evaluating tiny language models. Scalar and tensor runtimes, AdamW/SGD, ablation sweeps, benchmarked against karpathy/nanochat.
 - [minuit2-rs](https://github.com/ricardofrantz/minuit2-rs) — CERN's Minuit2 rewritten in pure Rust. Same algorithms (Migrad, Simplex, Hesse, Minos), zero unsafe, Python bindings. Verified against ROOT.
 - [libsvm-rs](https://github.com/ricardofrantz/libsvm-rs) — LIBSVM rewritten in pure Rust. All SVM types and kernels, drop-in CLI replacements. 250-config test suite matching upstream to ~1e-8.
-- [stockalist](https://ricardofrantz.github.io/stockalist/) — Stock and crypto technical analysis dashboard. Candlestick charts, EMA/Bollinger/RSI/MACD indicators, automated trading signals.
-- [chaos-atlas](https://ricardofrantz.github.io/chaos-atlas/) — Interactive chaos theory explorer. Logistic, Hénon, Ikeda, Julia/Mandelbrot maps and coupled map lattices for spatiotemporal chaos.
+- [coinscope](https://ricardofrantz.github.io/coinscope/) — Browser-only crypto analysis dashboard. Live CoinGecko data, EMA/RSI/MACD/Bollinger/Stochastic indicators, runs entirely client-side via Streamlit-in-Wasm.
+- [chaos-atlas](https://github.com/ricardofrantz/chaos-atlas) — Interactive chaos theory explorer. Bifurcation diagrams, Lyapunov exponents, cobweb plots, and strange attractors across 10 iterated maps and coupled map lattices. [Live demo](https://ricardofrantz.github.io/chaos-atlas/).
 - [chaosviz](https://chaosviz.vercel.app/) — Browser-based interactive chaotic attractor visualizer with configurable rendering styles (Lorenz, Rössler, and more).
 - [sacred-timeline](https://ricardofrantz.github.io/sacred_timeline/) — Chronological database of historical events from the Big Bang to present, wrapped in a TVA terminal aesthetic.
 
