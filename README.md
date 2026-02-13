@@ -14,7 +14,7 @@ PhD in mechanics, 8+ years building high-performance numerical software at scale
 - [minuit2-rs](https://github.com/ricardofrantz/minuit2-rs) — CERN's Minuit2 rewritten in pure Rust. Same algorithms (Migrad, Simplex, Hesse, Minos), zero unsafe, Python bindings. Verified against ROOT.
 - [libsvm-rs](https://github.com/ricardofrantz/libsvm-rs) — LIBSVM rewritten in pure Rust. All SVM types and kernels, drop-in CLI replacements. 250-config test suite matching upstream to ~1e-8.
 - [stockalist](https://ricardofrantz.github.io/stockalist/) — Stock and crypto technical analysis dashboard. Candlestick charts, EMA/Bollinger/RSI/MACD indicators, automated trading signals.
-- [cml-visualizer](https://ricardofrantz.github.io/cml-visualizer/) — Interactive chaos theory explorer. Logistic, Hénon, Ikeda, Julia/Mandelbrot maps and coupled map lattices for spatiotemporal chaos.
+- [chaos-atlas](https://ricardofrantz.github.io/chaos-atlas/) — Interactive chaos theory explorer. Logistic, Hénon, Ikeda, Julia/Mandelbrot maps and coupled map lattices for spatiotemporal chaos.
 - [chaosviz](https://chaosviz.vercel.app/) — Browser-based interactive chaotic attractor visualizer with configurable rendering styles (Lorenz, Rössler, and more).
 - [sacred-timeline](https://ricardofrantz.github.io/sacred_timeline/) — Chronological database of historical events from the Big Bang to present, wrapped in a TVA terminal aesthetic.
 
