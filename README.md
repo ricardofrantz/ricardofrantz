@@ -11,6 +11,7 @@ PhD in mechanics, 8+ years building high-performance numerical software at scale
 - [dolfinx-rans](https://github.com/ricardofrantz/dolfinx-rans) — Standalone RANS k-omega turbulence solver in FEniCSx with conjugate heat transfer
 - [pyModal](https://github.com/ricardofrantz/pyModal) — Modal decomposition toolkit: POD, DMD, SPOD, ST-POD, and bispectral analysis. Multiple FFT backends (MKL, Accelerate, CuPy, PyTorch).
 - [nanobook](https://github.com/ricardofrantz/nanobook) — Rust trading engine. Order book matching at ~120 ns/order, portfolio optimization (min-variance, risk-parity, CVaR), IBKR/Binance adapters.
+- [nanochat-rs-next](https://github.com/ricardofrantz/nanochat-rs-next) — Rust terminal-first agentic chat toolkit for local-first LLM workflows.
 - [minuit2-rs](https://github.com/ricardofrantz/minuit2-rs) — CERN's Minuit2 rewritten in pure Rust. Same algorithms (Migrad, Simplex, Hesse, Minos), zero unsafe, Python bindings. Verified against ROOT.
 - [libsvm-rs](https://github.com/ricardofrantz/libsvm-rs) — LIBSVM rewritten in pure Rust. All SVM types and kernels, drop-in CLI replacements. 250-config test suite matching upstream to ~1e-8.
 - [stockalist](https://ricardofrantz.github.io/stockalist/) — Stock and crypto technical analysis dashboard. Candlestick charts, EMA/Bollinger/RSI/MACD indicators, automated trading signals.
