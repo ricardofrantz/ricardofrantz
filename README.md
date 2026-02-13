@@ -13,6 +13,7 @@ PhD in mechanics, 8+ years building high-performance numerical software at scale
 
 - [dolfinx-rans](https://github.com/ricardofrantz/dolfinx-rans) — Standalone RANS k-omega solver in FEniCSx with conjugate heat transfer.
 - [pyModal](https://github.com/ricardofrantz/pyModal) — Modal decomposition toolkit: POD, DMD, SPOD, ST-POD, bispectral analysis. Multiple FFT backends (MKL, Accelerate, CuPy, PyTorch).
+- [dsgbr](https://github.com/ricardofrantz/dsgbr) — Spectral peak detector using dual Savitzky-Golay filtering for PSD signals. Published on [PyPI](https://pypi.org/project/dsgbr/).
 
 ## Rust
 
