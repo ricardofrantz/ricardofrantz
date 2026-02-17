@@ -14,6 +14,9 @@ PhD in mechanics, 8+ years building high-performance numerical software at scale
 - [dolfinx-rans](https://github.com/ricardofrantz/dolfinx-rans) — Standalone RANS k-omega solver in FEniCSx with conjugate heat transfer.
 - [pyModal](https://github.com/ricardofrantz/pyModal) — Modal decomposition toolkit: POD, DMD, SPOD, ST-POD, bispectral analysis. Multiple FFT backends (MKL, Accelerate, CuPy, PyTorch).
 - [dsgbr](https://github.com/ricardofrantz/dsgbr) — Spectral peak detector using dual Savitzky-Golay filtering for PSD signals. Published on [PyPI](https://pypi.org/project/dsgbr/).
+- [slendr](https://github.com/ricardofrantz/slendr) — Thermal fiber drawing solver: Chebyshev spectral, shooting method, discrete adjoint. SciPy/PyTorch/JAX backends.
+- [organa](https://github.com/ricardofrantz/organa) — Adjoint-based topology optimization for microfluidic cooling: Brinkman-NS + CHT on Firedrake/pyadjoint with GCMMA optimizer.
+- [linstab2d](https://github.com/ricardofrantz/linstab2d) — Linear stability and resolvent analysis for compressible viscous flows, targeting PETSc/SLEPc for large-scale problems.
 
 ## Rust
 
@@ -21,6 +24,7 @@ PhD in mechanics, 8+ years building high-performance numerical software at scale
 - [nanochat-rs-next](https://github.com/ricardofrantz/nanochat-rs-next) — Rust CLI for training tiny language models, benchmarked against karpathy/nanochat.
 - [minuit2-rs](https://github.com/ricardofrantz/minuit2-rs) — CERN's Minuit2 rewritten in pure Rust, zero unsafe, Python bindings. Verified against ROOT. On [crates.io](https://crates.io/crates/minuit2).
 - [libsvm-rs](https://github.com/ricardofrantz/libsvm-rs) — LIBSVM rewritten in pure Rust. All SVM types/kernels, 250-config test suite, ~1e-8 parity. On [crates.io](https://crates.io/crates/libsvm-rs).
+- [nebula-quanta](https://github.com/ricardofrantz/nebula-quanta) — Deterministic Barnes-Hut N-body simulation engine: quadtree spatial decomposition, O(N log N) force approximation.
 
 ## Web
 
@@ -28,6 +32,7 @@ PhD in mechanics, 8+ years building high-performance numerical software at scale
 - [chaosviz](https://chaosviz.vercel.app/) — Browser-based chaotic attractor visualizer (Lorenz, Rössler, and more).
 - [coinscope](https://ricardofrantz.github.io/coinscope/) — Crypto analysis dashboard with live CoinGecko data and technical indicators.
 - [sacred-timeline](https://ricardofrantz.github.io/sacred_timeline/) — Chronological database from the Big Bang to present in a TVA terminal aesthetic.
+- [bun-do](https://github.com/ricardofrantz/bun-do) — Fast local-first todo app: Bun + Alpine.js, zero dependencies, JSON storage. On [npm](https://www.npmjs.com/package/bun-do).
 
 ## Plugin
 
