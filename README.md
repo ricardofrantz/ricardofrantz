@@ -1,4 +1,4 @@
-Computational Engineer · Lausanne, Switzerland
+Computational Engineer
 
 PhD in mechanics, 8+ years building high-performance numerical software at scale. Currently at EPFL building coupled flow-thermal solvers for conjugate heat transfer with PyTorch/JAX backends for gradient-based optimization. I port proven algorithms into modern, safe implementations (Rust, Modern Fortran) and build agentic engineering workflows.
 
