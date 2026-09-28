@@ -1,7 +1,5 @@
 Computational Engineer
 
-PhD in mechanics, 8+ years building high-performance numerical software at scale. I port proven algorithms into modern, safe implementations (Rust, Cuda, Fortran) using agentic enginnering workflows.
-
 ## Fortran
 
 - [nekStab](https://github.com/nekStab/nekStab) — Stability analysis toolbox for Nek5000: linear/adjoint solvers, Newton-GMRES for UPOs, eigensolvers, native POD/SPOD/DMD. Scaled to 10,000+ cores.
