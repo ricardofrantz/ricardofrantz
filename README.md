@@ -1,6 +1,6 @@
 **Computational Engineer**
 
-Numerical methods · PDE-constrained optimization · signal and data analysis  
+Modelling · numerical methods · PDE-constrained optimization · signal and data analysis  
 CUDA kernels in C++ and Rust · GPU computing · HPC · quantitative trading systems  
 Rust and Python libraries, ports of established codes with verified parity  
 Developer tools: VS Code extensions, desktop apps, Claude Code plugins  
