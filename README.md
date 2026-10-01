@@ -1,11 +1,11 @@
 **Computational Engineer**
 
-Modelling · numerical methods · PDE-constrained optimization · signal and data analysis  
+Modelling · numerical methods · automatic differentiation · PDE-constrained optimization · signal and data analysis  
 CUDA kernels in C++ and Rust · GPU computing · HPC · quantitative trading systems  
 Rust and Python libraries, ports of established codes with verified parity  
 Developer tools: VS Code extensions, desktop apps, Claude Code plugins  
 Agentic engineering: AI coding agents that plan, implement, test and review software  
-Also in private development: GPU lattice Boltzmann kernels, surrogate-based design optimization
+Also in private development: PDE solver generator with automatic tangent-linear and adjoint kernels, GPU lattice Boltzmann kernels, surrogate-based design optimization
 
 Organizations: [openfluids](https://github.com/openfluids) · [BoringQuantSystems](https://github.com/BoringQuantSystems) · [brachistos](https://github.com/brachistos) · [nekStab](https://github.com/nekStab)
 
