@@ -9,16 +9,16 @@ Computational Engineer
 
 ## Python
 
-- [dolfinx-rans](https://github.com/brachistos/dolfinx-rans) — Standalone RANS k-omega solver in FEniCSx with conjugate heat transfer.
+- [linstabpy](https://github.com/openfluids/linstabpy) — Linear stability and resolvent analysis for compressible viscous flows, targeting PETSc/SLEPc for large-scale problems. [Docs](https://linstabpy.vercel.app/).
 - [openmodalpy](https://github.com/openfluids/openmodalpy) — Nine modal decompositions behind one interface: POD, MPOD, DMD, SPOD, PSD-POD, BSMD, ST-POD. One data contract, one config file, same result format for every method. On [PyPI](https://pypi.org/project/openmodalpy/).
 - [fftkit](https://github.com/openfluids/fftkit) — One FFT API over eight backends (scipy, numpy, MKL, CuPy, PyTorch, TensorFlow, pyFFTW, Accelerate), plus `spectrum()` for PSDs of physical signals. On [PyPI](https://pypi.org/project/fftkit/).
 - [dsgbr](https://github.com/openfluids/dsgbr) — Spectral peak detector using dual Savitzky-Golay filtering for PSD signals. Published on [PyPI](https://pypi.org/project/dsgbr/).
-- [slendr](https://github.com/ricardofrantz/slendr) — Thermal fiber drawing solver: Chebyshev spectral, shooting method, discrete adjoint. SciPy/PyTorch/JAX backends.
 - [organa](https://github.com/brachistos/organa) — Adjoint-based topology optimization for microfluidic cooling: Brinkman-NS + CHT on Firedrake/pyadjoint with GCMMA optimizer.
-- [linstabpy](https://github.com/openfluids/linstabpy) — Linear stability and resolvent analysis for compressible viscous flows, targeting PETSc/SLEPc for large-scale problems. [Docs](https://linstabpy.vercel.app/).
+- [dolfinx-rans](https://github.com/brachistos/dolfinx-rans) — Standalone RANS k-omega solver in FEniCSx with conjugate heat transfer.
 - [dynachaos](https://github.com/openfluids/dynachaos) — Dynamical-systems analysis of time signals: Lyapunov exponents, recurrence quantification, entropy, correlation dimension, multifractal spectra. Rust kernels with Python fallbacks. On [PyPI](https://pypi.org/project/dynachaos/). [Docs](https://openfluids.github.io/dynachaos/).
 - [hpckit](https://github.com/openfluids/hpckit) — CLI for Slurm workflows from a local checkout: remote tool checkouts, per-commit virtualenvs, job submission and polling, artifact sync, run records. On [PyPI](https://pypi.org/project/hpckit/).
 - [quadros](https://github.com/openfluids/quadros) — Renders simulation snapshots (Nek5000 and others, via PyVista) into checked frame sets and videos, locally, over SSH or in Slurm jobs. On [PyPI](https://pypi.org/project/quadros/).
+- [slendr](https://github.com/ricardofrantz/slendr) — Thermal fiber drawing solver: Chebyshev spectral, shooting method, discrete adjoint. SciPy/PyTorch/JAX backends.
 
 ## Rust
 
