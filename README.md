@@ -40,6 +40,7 @@ Computational Engineer
 
 - [pdf-next](https://github.com/ricardofrantz/pdf-next) — Desktop PDF, image and Markdown viewer that reloads the moment the file changes, built for the LaTeX/Typst compile loop. Rust + PDF.js. Installers for Windows, macOS (Homebrew) and Debian/Ubuntu.
 - [vscode-pdf Next](https://github.com/ricardofrantz/vscode-pdf-next) — VS Code PDF viewer, successor to `tomoki1207.vscode-pdf`: PDF.js 6, dark reading modes, live reload that keeps page and zoom, search, outline. On the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=RicardoFrantz.pdf-preview-next).
+- [vscode-diff Next](https://github.com/ricardofrantz/vscode-diff-next) — VS Code extension to compare two branches, or branches of two different repos in one workspace: changed-file tree, commit history, built-in diffs. Successor to Diff Visualizer. On the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=RicardoFrantz.diff-next).
 - [fortran-lsp](https://github.com/ricardofrantz/fortran-lsp) — Claude Code plugin for Fortran diagnostics, navigation, and refactoring via fortls.
 
 ## Publications
