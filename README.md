@@ -14,7 +14,7 @@ Computational Engineer
 - [dsgbr](https://github.com/openfluids/dsgbr) — Spectral peak detector using dual Savitzky-Golay filtering for PSD signals. Published on [PyPI](https://pypi.org/project/dsgbr/).
 - [slendr](https://github.com/ricardofrantz/slendr) — Thermal fiber drawing solver: Chebyshev spectral, shooting method, discrete adjoint. SciPy/PyTorch/JAX backends.
 - [organa](https://github.com/brachistos/organa) — Adjoint-based topology optimization for microfluidic cooling: Brinkman-NS + CHT on Firedrake/pyadjoint with GCMMA optimizer.
-- [linstabpy](https://github.com/openfluids/linstabpy) — Linear stability and resolvent analysis for compressible viscous flows, targeting PETSc/SLEPc for large-scale problems.
+- [linstabpy](https://github.com/openfluids/linstabpy) — Linear stability and resolvent analysis for compressible viscous flows, targeting PETSc/SLEPc for large-scale problems. [Docs](https://linstabpy.vercel.app/).
 
 ## Rust
 
