@@ -15,7 +15,8 @@ Computational Engineer
 - [dsgbr](https://github.com/openfluids/dsgbr) — Spectral peak detector using dual Savitzky-Golay filtering for PSD signals. Published on [PyPI](https://pypi.org/project/dsgbr/).
 - [organa](https://github.com/brachistos/organa) — Adjoint-based topology optimization for microfluidic cooling: Brinkman-NS + CHT on Firedrake/pyadjoint with GCMMA optimizer.
 - [dolfinx-rans](https://github.com/brachistos/dolfinx-rans) — Standalone RANS k-omega solver in FEniCSx with conjugate heat transfer.
-- [dynachaos](https://github.com/openfluids/dynachaos) — Dynamical-systems analysis of time signals: Lyapunov exponents, recurrence quantification, entropy, correlation dimension, multifractal spectra. Rust kernels with Python fallbacks. On [PyPI](https://pypi.org/project/dynachaos/). [Docs](https://openfluids.github.io/dynachaos/).
+- [dynachaos](https://github.com/openfluids/dynachaos) — Dynamical-systems analysis of time signals: Lyapunov exponents, recurrence quantification, entropy, correlation dimension, multifractal spectra. Rust kernels with Python fallbacks. On [PyPI](https://pypi.org/project/dynachaos/).
+  - Site: [From Locking to Collective Chaos](https://openfluids.github.io/dynachaos/), a reproducible review of Kaneko-style coupled-map systems.
 - [hpckit](https://github.com/openfluids/hpckit) — CLI for Slurm workflows from a local checkout: remote tool checkouts, per-commit virtualenvs, job submission and polling, artifact sync, run records. On [PyPI](https://pypi.org/project/hpckit/).
 - [quadros](https://github.com/openfluids/quadros) — Renders simulation snapshots (Nek5000 and others, via PyVista) into checked frame sets and videos, locally, over SSH or in Slurm jobs. On [PyPI](https://pypi.org/project/quadros/).
 - [slendr](https://github.com/ricardofrantz/slendr) — Thermal fiber drawing solver: Chebyshev spectral, shooting method, discrete adjoint. SciPy/PyTorch/JAX backends.
