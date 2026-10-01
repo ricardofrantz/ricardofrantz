@@ -4,13 +4,14 @@ Modelling · numerical methods · PDE-constrained optimization · signal and dat
 CUDA kernels in C++ and Rust · GPU computing · HPC · quantitative trading systems  
 Rust and Python libraries, ports of established codes with verified parity  
 Developer tools: VS Code extensions, desktop apps, Claude Code plugins  
-Agentic engineering: AI coding agents that plan, implement, test and review software
+Agentic engineering: AI coding agents that plan, implement, test and review software  
+Also in private development: GPU lattice Boltzmann kernels, surrogate-based design optimization for propulsion
 
 Organizations: [openfluids](https://github.com/openfluids) · [BoringQuantSystems](https://github.com/BoringQuantSystems) · [brachistos](https://github.com/brachistos) · [nekStab](https://github.com/nekStab)
 
 ## Rust
 
-- [nanobook](https://github.com/BoringQuantSystems/nanobook) — Trading engine: order book matching at ~120 ns/order, portfolio optimization, IBKR/Binance adapters. On [crates.io](https://crates.io/crates/nanobook).
+- [nanobook](https://github.com/BoringQuantSystems/nanobook) — Trading engine: order book matching at ~120 ns/order, portfolio optimization, IBKR/Binance adapters. On [crates.io](https://crates.io/crates/nanobook) and [PyPI](https://pypi.org/project/nanobook/).
 - [nanochat-rs-next](https://github.com/BoringQuantSystems/nanochat-rs-next) — Rust CLI for training tiny language models, benchmarked against karpathy/nanochat.
 - [minuit2-rs](https://github.com/ricardofrantz/minuit2-rs) — CERN's Minuit2 rewritten in pure Rust, zero unsafe, Python bindings. Verified against ROOT. On [crates.io](https://crates.io/crates/minuit2).
 - [libsvm-rs](https://github.com/ricardofrantz/libsvm-rs) — LIBSVM rewritten in pure Rust. All SVM types/kernels, 250-config test suite, ~1e-8 parity. On [crates.io](https://crates.io/crates/libsvm-rs).
@@ -36,6 +37,7 @@ Organizations: [openfluids](https://github.com/openfluids) · [BoringQuantSystem
 - [vscode-pdf Next](https://github.com/ricardofrantz/vscode-pdf-next) — VS Code PDF viewer, successor to `tomoki1207.vscode-pdf`: PDF.js 6, dark reading modes, live reload that keeps page and zoom, search, outline. On the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=RicardoFrantz.pdf-preview-next).
 - [vscode-diff Next](https://github.com/ricardofrantz/vscode-diff-next) — VS Code extension to compare two branches, or branches of two different repos in one workspace: changed-file tree, commit history, built-in diffs. Successor to Diff Visualizer. On the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=RicardoFrantz.diff-next).
 - [fortran-lsp](https://github.com/ricardofrantz/fortran-lsp) — Claude Code plugin for Fortran diagnostics, navigation, and refactoring via fortls.
+- [pi-effort](https://github.com/ricardofrantz/pi-effort) — Extension for the pi coding agent: `/effort` and `/fast` commands to set reasoning effort and fast mode. On [npm](https://www.npmjs.com/package/pi-effort).
 
 ## Web
 
