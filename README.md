@@ -26,7 +26,7 @@ Computational Engineer
 
 ## Web
 
-- [chaos-atlas](https://github.com/ricardofrantz/chaos-atlas) — Interactive chaos explorer: bifurcation diagrams, Lyapunov exponents, strange attractors across 10 maps. [Live demo](https://ricardofrantz.github.io/chaos-atlas/).
+- [chaos-atlas](https://github.com/ricardofrantz/chaos-atlas) — Interactive chaos explorer: bifurcation diagrams, Lyapunov exponents, strange attractors across 10 maps. [Live demo](https://openfluids.github.io/chaos-atlas/).
 - [chaosviz](https://chaosviz.vercel.app/) — Browser-based chaotic attractor visualizer (Lorenz, Rössler, and more).
 - [coinscope](https://ricardofrantz.github.io/coinscope/) — Crypto analysis dashboard with live CoinGecko data and technical indicators.
 - [sacred-timeline](https://ricardofrantz.github.io/sacred_timeline/) — Chronological database from the Big Bang to present in a TVA terminal aesthetic.
