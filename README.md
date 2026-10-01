@@ -49,4 +49,4 @@ Full list: [Google Scholar](https://scholar.google.com/citations?user=VzovS2oAAA
 
 ## Links
 
-[Website](https://ricardofrantz.github.io) · [LinkedIn](https://www.linkedin.com/in/rfrantz91) · [YouTube](https://www.youtube.com/channel/UC9quHxfzJkrFXQnI2DF2Jsw) · [ResearchGate](https://www.researchgate.net/profile/Ricardo-Frantz) · [Unsplash](https://unsplash.com/@ricardofrantz)
+[LinkedIn](https://www.linkedin.com/in/rfrantz91) · [YouTube](https://www.youtube.com/channel/UC9quHxfzJkrFXQnI2DF2Jsw) · [ResearchGate](https://www.researchgate.net/profile/Ricardo-Frantz) · [Unsplash](https://unsplash.com/@ricardofrantz)
