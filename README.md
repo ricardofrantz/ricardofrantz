@@ -10,7 +10,6 @@ Computational Engineer
 ## Python
 
 - [dolfinx-rans](https://github.com/brachistos/dolfinx-rans) — Standalone RANS k-omega solver in FEniCSx with conjugate heat transfer.
-- [pyModal](https://github.com/ricardofrantz/pyModal) — Modal decomposition toolkit: POD, DMD, SPOD, ST-POD, bispectral analysis. Multiple FFT backends (MKL, Accelerate, CuPy, PyTorch).
 - [openmodalpy](https://github.com/openfluids/openmodalpy) — Nine modal decompositions behind one interface: POD, MPOD, DMD, SPOD, PSD-POD, BSMD, ST-POD. One data contract, one config file, same result format for every method. On [PyPI](https://pypi.org/project/openmodalpy/).
 - [fftkit](https://github.com/openfluids/fftkit) — One FFT API over eight backends (scipy, numpy, MKL, CuPy, PyTorch, TensorFlow, pyFFTW, Accelerate), plus `spectrum()` for PSDs of physical signals. On [PyPI](https://pypi.org/project/fftkit/).
 - [dsgbr](https://github.com/openfluids/dsgbr) — Spectral peak detector using dual Savitzky-Golay filtering for PSD signals. Published on [PyPI](https://pypi.org/project/dsgbr/).
