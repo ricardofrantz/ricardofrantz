@@ -9,24 +9,24 @@ Computational Engineer
 
 ## Python
 
-- [dolfinx-rans](https://github.com/ricardofrantz/dolfinx-rans) — Standalone RANS k-omega solver in FEniCSx with conjugate heat transfer.
+- [dolfinx-rans](https://github.com/brachistos/dolfinx-rans) — Standalone RANS k-omega solver in FEniCSx with conjugate heat transfer.
 - [pyModal](https://github.com/ricardofrantz/pyModal) — Modal decomposition toolkit: POD, DMD, SPOD, ST-POD, bispectral analysis. Multiple FFT backends (MKL, Accelerate, CuPy, PyTorch).
-- [dsgbr](https://github.com/ricardofrantz/dsgbr) — Spectral peak detector using dual Savitzky-Golay filtering for PSD signals. Published on [PyPI](https://pypi.org/project/dsgbr/).
+- [dsgbr](https://github.com/openfluids/dsgbr) — Spectral peak detector using dual Savitzky-Golay filtering for PSD signals. Published on [PyPI](https://pypi.org/project/dsgbr/).
 - [slendr](https://github.com/ricardofrantz/slendr) — Thermal fiber drawing solver: Chebyshev spectral, shooting method, discrete adjoint. SciPy/PyTorch/JAX backends.
-- [organa](https://github.com/ricardofrantz/organa) — Adjoint-based topology optimization for microfluidic cooling: Brinkman-NS + CHT on Firedrake/pyadjoint with GCMMA optimizer.
-- [linstab2d](https://github.com/ricardofrantz/linstab2d) — Linear stability and resolvent analysis for compressible viscous flows, targeting PETSc/SLEPc for large-scale problems.
+- [organa](https://github.com/brachistos/organa) — Adjoint-based topology optimization for microfluidic cooling: Brinkman-NS + CHT on Firedrake/pyadjoint with GCMMA optimizer.
+- [linstab2d](https://github.com/openfluids/linstabpy) — Linear stability and resolvent analysis for compressible viscous flows, targeting PETSc/SLEPc for large-scale problems.
 
 ## Rust
 
-- [nanobook](https://github.com/ricardofrantz/nanobook) — Trading engine: order book matching at ~120 ns/order, portfolio optimization, IBKR/Binance adapters. On [crates.io](https://crates.io/crates/nanobook).
-- [nanochat-rs-next](https://github.com/ricardofrantz/nanochat-rs-next) — Rust CLI for training tiny language models, benchmarked against karpathy/nanochat.
+- [nanobook](https://github.com/BoringQuantSystems/nanobook) — Trading engine: order book matching at ~120 ns/order, portfolio optimization, IBKR/Binance adapters. On [crates.io](https://crates.io/crates/nanobook).
+- [nanochat-rs-next](https://github.com/BoringQuantSystems/nanochat-rs-next) — Rust CLI for training tiny language models, benchmarked against karpathy/nanochat.
 - [minuit2-rs](https://github.com/ricardofrantz/minuit2-rs) — CERN's Minuit2 rewritten in pure Rust, zero unsafe, Python bindings. Verified against ROOT. On [crates.io](https://crates.io/crates/minuit2).
 - [libsvm-rs](https://github.com/ricardofrantz/libsvm-rs) — LIBSVM rewritten in pure Rust. All SVM types/kernels, 250-config test suite, ~1e-8 parity. On [crates.io](https://crates.io/crates/libsvm-rs).
 - [nebula-quanta](https://github.com/ricardofrantz/nebula-quanta) — Deterministic Barnes-Hut N-body simulation engine: quadtree spatial decomposition, O(N log N) force approximation.
 
 ## Web
 
-- [chaos-atlas](https://github.com/ricardofrantz/chaos-atlas) — Interactive chaos explorer: bifurcation diagrams, Lyapunov exponents, strange attractors across 10 maps. [Live demo](https://openfluids.github.io/chaos-atlas/).
+- [chaos-atlas](https://github.com/openfluids/chaos-atlas) — Interactive chaos explorer: bifurcation diagrams, Lyapunov exponents, strange attractors across 10 maps. [Live demo](https://openfluids.github.io/chaos-atlas/).
 - [chaosviz](https://chaosviz.vercel.app/) — Browser-based chaotic attractor visualizer (Lorenz, Rössler, and more).
 - [coinscope](https://ricardofrantz.github.io/coinscope/) — Crypto analysis dashboard with live CoinGecko data and technical indicators.
 - [sacred-timeline](https://ricardofrantz.github.io/sacred_timeline/) — Chronological database from the Big Bang to present in a TVA terminal aesthetic.
