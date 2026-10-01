@@ -1,7 +1,7 @@
 **Computational Engineer**
 
 Scientific computing · numerical methods · PDE-constrained optimization · signal and data analysis  
-CUDA and GPU computing · HPC · machine learning · quantitative trading systems  
+CUDA kernels in C++ and Rust · GPU computing · HPC · machine learning · quantitative trading systems  
 Rust and Python libraries, ports of established codes with verified parity  
 Developer tools: VS Code extensions, desktop apps, Claude Code plugins  
 Agentic engineering: AI coding agents that plan, implement, test and review software
