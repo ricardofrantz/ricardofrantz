@@ -1,11 +1,12 @@
 Computational Engineer
 
-## Fortran
+## Rust
 
-- [nekStab](https://github.com/nekStab/nekStab) — Stability analysis toolbox for Nek5000: linear/adjoint solvers, Newton-GMRES for UPOs, eigensolvers, native POD/SPOD/DMD. Scaled to 10,000+ cores.
-- [LightKrylov](https://github.com/nekStab/LightKrylov) — Standalone Krylov methods library: Arnoldi, Lanczos, GMRES, SVD. Published in [JOSS](https://joss.theoj.org/papers/10.21105/joss.09623).
-- [Xcompact3d](https://github.com/xcompact3d/Incompact3d) — MPI-parallel Navier-Stokes solver for turbulence research.
-- [dNami](https://github.com/dNamiLab/dNami) — Compressible flow framework with Python→Fortran codegen for compute-critical kernels.
+- [nanobook](https://github.com/BoringQuantSystems/nanobook) — Trading engine: order book matching at ~120 ns/order, portfolio optimization, IBKR/Binance adapters. On [crates.io](https://crates.io/crates/nanobook).
+- [nanochat-rs-next](https://github.com/BoringQuantSystems/nanochat-rs-next) — Rust CLI for training tiny language models, benchmarked against karpathy/nanochat.
+- [minuit2-rs](https://github.com/ricardofrantz/minuit2-rs) — CERN's Minuit2 rewritten in pure Rust, zero unsafe, Python bindings. Verified against ROOT. On [crates.io](https://crates.io/crates/minuit2).
+- [libsvm-rs](https://github.com/ricardofrantz/libsvm-rs) — LIBSVM rewritten in pure Rust. All SVM types/kernels, 250-config test suite, ~1e-8 parity. On [crates.io](https://crates.io/crates/libsvm-rs).
+- [nebula-quanta](https://github.com/ricardofrantz/nebula-quanta) — Deterministic Barnes-Hut N-body simulation engine: quadtree spatial decomposition, O(N log N) force approximation.
 
 ## Python
 
@@ -21,13 +22,12 @@ Computational Engineer
 - [quadros](https://github.com/openfluids/quadros) — Renders simulation snapshots (Nek5000 and others, via PyVista) into checked frame sets and videos, locally, over SSH or in Slurm jobs. On [PyPI](https://pypi.org/project/quadros/).
 - [slendr](https://github.com/ricardofrantz/slendr) — Thermal fiber drawing solver: Chebyshev spectral, shooting method, discrete adjoint. SciPy/PyTorch/JAX backends.
 
-## Rust
+## Tools
 
-- [nanobook](https://github.com/BoringQuantSystems/nanobook) — Trading engine: order book matching at ~120 ns/order, portfolio optimization, IBKR/Binance adapters. On [crates.io](https://crates.io/crates/nanobook).
-- [nanochat-rs-next](https://github.com/BoringQuantSystems/nanochat-rs-next) — Rust CLI for training tiny language models, benchmarked against karpathy/nanochat.
-- [minuit2-rs](https://github.com/ricardofrantz/minuit2-rs) — CERN's Minuit2 rewritten in pure Rust, zero unsafe, Python bindings. Verified against ROOT. On [crates.io](https://crates.io/crates/minuit2).
-- [libsvm-rs](https://github.com/ricardofrantz/libsvm-rs) — LIBSVM rewritten in pure Rust. All SVM types/kernels, 250-config test suite, ~1e-8 parity. On [crates.io](https://crates.io/crates/libsvm-rs).
-- [nebula-quanta](https://github.com/ricardofrantz/nebula-quanta) — Deterministic Barnes-Hut N-body simulation engine: quadtree spatial decomposition, O(N log N) force approximation.
+- [pdf-next](https://github.com/ricardofrantz/pdf-next) — Desktop PDF, image and Markdown viewer that reloads the moment the file changes, built for the LaTeX/Typst compile loop. Rust + PDF.js. Installers for Windows, macOS (Homebrew) and Debian/Ubuntu.
+- [vscode-pdf Next](https://github.com/ricardofrantz/vscode-pdf-next) — VS Code PDF viewer, successor to `tomoki1207.vscode-pdf`: PDF.js 6, dark reading modes, live reload that keeps page and zoom, search, outline. On the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=RicardoFrantz.pdf-preview-next).
+- [vscode-diff Next](https://github.com/ricardofrantz/vscode-diff-next) — VS Code extension to compare two branches, or branches of two different repos in one workspace: changed-file tree, commit history, built-in diffs. Successor to Diff Visualizer. On the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=RicardoFrantz.diff-next).
+- [fortran-lsp](https://github.com/ricardofrantz/fortran-lsp) — Claude Code plugin for Fortran diagnostics, navigation, and refactoring via fortls.
 
 ## Web
 
@@ -37,12 +37,12 @@ Computational Engineer
 - [sacred-timeline](https://ricardofrantz.github.io/sacred_timeline/) — Chronological database from the Big Bang to present in a TVA terminal aesthetic.
 - [bun-do](https://github.com/ricardofrantz/bun-do) — Fast local-first todo app: Bun + Alpine.js, zero dependencies, JSON storage. On [npm](https://www.npmjs.com/package/bun-do).
 
-## Tools
+## Fortran
 
-- [pdf-next](https://github.com/ricardofrantz/pdf-next) — Desktop PDF, image and Markdown viewer that reloads the moment the file changes, built for the LaTeX/Typst compile loop. Rust + PDF.js. Installers for Windows, macOS (Homebrew) and Debian/Ubuntu.
-- [vscode-pdf Next](https://github.com/ricardofrantz/vscode-pdf-next) — VS Code PDF viewer, successor to `tomoki1207.vscode-pdf`: PDF.js 6, dark reading modes, live reload that keeps page and zoom, search, outline. On the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=RicardoFrantz.pdf-preview-next).
-- [vscode-diff Next](https://github.com/ricardofrantz/vscode-diff-next) — VS Code extension to compare two branches, or branches of two different repos in one workspace: changed-file tree, commit history, built-in diffs. Successor to Diff Visualizer. On the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=RicardoFrantz.diff-next).
-- [fortran-lsp](https://github.com/ricardofrantz/fortran-lsp) — Claude Code plugin for Fortran diagnostics, navigation, and refactoring via fortls.
+- [nekStab](https://github.com/nekStab/nekStab) — Stability analysis toolbox for Nek5000: linear/adjoint solvers, Newton-GMRES for UPOs, eigensolvers, native POD/SPOD/DMD. Scaled to 10,000+ cores.
+- [LightKrylov](https://github.com/nekStab/LightKrylov) — Standalone Krylov methods library: Arnoldi, Lanczos, GMRES, SVD. Published in [JOSS](https://joss.theoj.org/papers/10.21105/joss.09623).
+- [Xcompact3d](https://github.com/xcompact3d/Incompact3d) — MPI-parallel Navier-Stokes solver for turbulence research.
+- [dNami](https://github.com/dNamiLab/dNami) — Compressible flow framework with Python→Fortran codegen for compute-critical kernels.
 
 ## Publications
 
