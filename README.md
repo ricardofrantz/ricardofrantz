@@ -2,7 +2,7 @@
 
 Numerical software: models, solvers and the tools around them. Topics include automatic differentiation (tangent-linear and adjoint), PDE-constrained and surrogate-based optimization, and signal and data analysis, applied to PDE solver generation, lattice Boltzmann methods and quantitative trading systems. The code runs on CPUs, GPUs (CUDA kernels) and HPC clusters, in Rust, Python and Fortran.
 
-Other projects: ports of established libraries to Rust with verified parity, and developer tools (VS Code extensions, desktop apps, Claude Code plugins). Development follows an agentic workflow: AI coding agents plan, implement, test and review the code under human direction.
+Other projects: ports of established libraries to Rust with verified parity, and developer tools (VS Code extensions, desktop apps, Claude Code plugins). Development uses agentic workflows with AI coding agents.
 
 **Organizations** · [openfluids](https://github.com/openfluids) · [BoringQuantSystems](https://github.com/BoringQuantSystems) · [brachistos](https://github.com/brachistos) · [nekStab](https://github.com/nekStab)
 
