@@ -1,9 +1,8 @@
 **Computational Engineer**
 
-**Methods** · modelling · numerical methods · automatic differentiation (tangent-linear, adjoint) · PDE-constrained and surrogate-based optimization · signal and data analysis  
-**Computing** · CUDA kernels · GPU and HPC · Rust · Python · Fortran  
-**Applications** · PDE solver generation · lattice Boltzmann · quantitative trading systems  
-**Engineering** · agentic workflows (AI coding agents that plan, implement, test and review) · ports of established libraries with verified parity · developer tools: VS Code extensions, desktop apps, Claude Code plugins
+I write numerical software: models, solvers and the tools around them. The work covers automatic differentiation (tangent-linear and adjoint), PDE-constrained and surrogate-based optimization, and signal and data analysis, applied to PDE solver generation, lattice Boltzmann methods and quantitative trading systems. I write CUDA kernels and run on GPUs and HPC clusters, in Rust, Python and Fortran.
+
+I also port established libraries to Rust with verified parity, build developer tools (VS Code extensions, desktop apps, Claude Code plugins), and use agentic workflows, where AI coding agents plan, implement, test and review the code.
 
 **Organizations** · [openfluids](https://github.com/openfluids) · [BoringQuantSystems](https://github.com/BoringQuantSystems) · [brachistos](https://github.com/brachistos) · [nekStab](https://github.com/nekStab)
 
