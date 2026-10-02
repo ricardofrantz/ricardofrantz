@@ -10,10 +10,10 @@
 ## Rust
 
 - [nanobook](https://github.com/BoringQuantSystems/nanobook) — Trading engine: order book matching at ~120 ns/order, portfolio optimization, IBKR/Binance adapters. On [crates.io](https://crates.io/crates/nanobook) and [PyPI](https://pypi.org/project/nanobook/).
-- [nanochat-rs-next](https://github.com/BoringQuantSystems/nanochat-rs-next) — Rust CLI for training tiny language models, pure-Rust CPU path or CUDA GPUs through libtorch (`tch`), benchmarked against karpathy/nanochat.
 - [minuit2-rs](https://github.com/ricardofrantz/minuit2-rs) — CERN's Minuit2 rewritten in pure Rust, zero unsafe, Python bindings. Verified against ROOT. On [crates.io](https://crates.io/crates/minuit2).
 - [libsvm-rs](https://github.com/ricardofrantz/libsvm-rs) — LIBSVM rewritten in pure Rust. All SVM types/kernels, 250-config test suite, ~1e-8 parity. On [crates.io](https://crates.io/crates/libsvm-rs).
 - [nebula-quanta](https://github.com/ricardofrantz/nebula-quanta) — Deterministic Barnes-Hut N-body simulation engine: quadtree spatial decomposition, O(N log N) force approximation.
+- [nanochat-rs-next](https://github.com/BoringQuantSystems/nanochat-rs-next) — Rust CLI for training tiny language models, pure-Rust CPU path or CUDA GPUs through libtorch (`tch`), benchmarked against karpathy/nanochat.
 
 ## Python
 
