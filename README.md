@@ -63,3 +63,6 @@ Full list: [Google Scholar](https://scholar.google.com/citations?user=VzovS2oAAA
 ## Links
 
 [LinkedIn](https://www.linkedin.com/in/rfrantz91) · [YouTube](https://www.youtube.com/channel/UC9quHxfzJkrFXQnI2DF2Jsw) · [ResearchGate](https://www.researchgate.net/profile/Ricardo-Frantz) · [Unsplash](https://unsplash.com/@ricardofrantz)
+
+The software in my repositories is provided "as is", without warranty of any kind.
+Each repository's LICENSE and the Disclaimer section of its README set the terms of use.
